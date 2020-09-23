@@ -1,0 +1,199 @@
+Added Component: Designator=AT8(32A_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-026-ABA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/doc2486.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Atmel.com Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2486H-AVR-09/02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "16-Oct-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "32-Lead, 7x7x1.0 mm Body, 0.8mm Lead Pitch, Thin Profile Plastic Quad Flat Package (TQFP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "32A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Oct-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ATMEGA8-16AI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "556-ATMEGA8-16AI"; VariantName = "[No Variations]"
+Added Component: Designator=C1(Radial (8mm x 15mm, 3.5mm spacing))
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(Radial (8mm x 15mm, 3.5mm spacing))
+Add component. Clean all parameters for all variants
+Added Component: Designator=HC06(BLUETOOTH HC06_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Bluetooth HC06"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Telegram channel"; Value = "@AltiumDesignerLearning"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR1(66100211622)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6610XX11622.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "66100211622"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR2(66100211622)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6610XX11622.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "66100211622"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR3(66100211622)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6610XX11622.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "66100211622"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=POWERES(RESC3413X04N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=POWERLED(WL-TMRC_3 mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/led/datasheet/151031SS04000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Super Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "160 mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "151031SS04000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Jan 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "40°"; VariantName = "[No Variations]"
+Added Component: Designator=PROG?(61200621621)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6120xx21621.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "March 2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "61200621621"; VariantName = "[No Variations]"
+Added Component: Designator=reset switch(4301x60707x6_6x6x7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/4301x6xxx7x6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life Cycle"; Value = "200000 cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "360g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "430156070736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "6x6x7 mm"; VariantName = "[No Variations]"
+Added Component: Designator=RESET(RESC3413X04N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=ULN(DIP16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/stonline/products/literature/ds/1534/uln2064b.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Apr-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "06-Jun-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 16 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DIP16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Apr-1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Voltage Regulator(TO-252)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=AT8-3
+Added Pin To Net: NetName=5V Pin=AT8-4
+Added Pin To Net: NetName=GND Pin=AT8-5
+Added Pin To Net: NetName=5V Pin=AT8-6
+Added Pin To Net: NetName=MOSI Pin=AT8-15
+Added Pin To Net: NetName=MISO Pin=AT8-16
+Added Pin To Net: NetName=SCK Pin=AT8-17
+Added Pin To Net: NetName=5V Pin=AT8-18
+Added Pin To Net: NetName=5V Pin=AT8-20
+Added Pin To Net: NetName=GND Pin=AT8-21
+Added Pin To Net: NetName=M1b Pin=AT8-23
+Added Pin To Net: NetName=M2b Pin=AT8-24
+Added Pin To Net: NetName=M3b Pin=AT8-25
+Added Pin To Net: NetName=RST Pin=AT8-29
+Added Pin To Net: NetName=TX Pin=AT8-30
+Added Pin To Net: NetName=RX Pin=AT8-31
+Added Pin To Net: NetName=GND Pin=C1-N
+Added Pin To Net: NetName=12V Pin=C1-P
+Added Pin To Net: NetName=GND Pin=C2-N
+Added Pin To Net: NetName=5V Pin=C2-P
+Added Pin To Net: NetName=5V Pin=HC06-1
+Added Pin To Net: NetName=GND Pin=HC06-2
+Added Pin To Net: NetName=TX Pin=HC06-3
+Added Pin To Net: NetName=RX Pin=HC06-4
+Added Pin To Net: NetName=12V Pin=MOTOR1-1
+Added Pin To Net: NetName=M1c Pin=MOTOR1-2
+Added Pin To Net: NetName=12V Pin=MOTOR2-1
+Added Pin To Net: NetName=M2c Pin=MOTOR2-2
+Added Pin To Net: NetName=12V Pin=MOTOR3-1
+Added Pin To Net: NetName=M3c Pin=MOTOR3-2
+Added Pin To Net: NetName=NetPOWERES_1 Pin=POWERES-1
+Added Pin To Net: NetName=GND Pin=POWERES-2
+Added Pin To Net: NetName=NetPOWERES_1 Pin=POWERLED-1
+Added Pin To Net: NetName=5V Pin=POWERLED-2
+Added Pin To Net: NetName=MISO Pin=PROG?-1
+Added Pin To Net: NetName=5V Pin=PROG?-2
+Added Pin To Net: NetName=SCK Pin=PROG?-3
+Added Pin To Net: NetName=MOSI Pin=PROG?-4
+Added Pin To Net: NetName=RST Pin=PROG?-5
+Added Pin To Net: NetName=GND Pin=PROG?-6
+Added Pin To Net: NetName=5V Pin=RESET-1
+Added Pin To Net: NetName=NetRESET_2 Pin=RESET-2
+Added Pin To Net: NetName=NetRESET_2 Pin=reset switch-1
+Added Pin To Net: NetName=GND Pin=reset switch-2
+Added Pin To Net: NetName=RESET Pin=reset switch-3
+Added Pin To Net: NetName=GND Pin=reset switch-4
+Added Pin To Net: NetName=12V Pin=ULN-1
+Added Pin To Net: NetName=M1c Pin=ULN-2
+Added Pin To Net: NetName=M1b Pin=ULN-3
+Added Pin To Net: NetName=GND Pin=ULN-4
+Added Pin To Net: NetName=GND Pin=ULN-5
+Added Pin To Net: NetName=M2b Pin=ULN-6
+Added Pin To Net: NetName=M2c Pin=ULN-7
+Added Pin To Net: NetName=12V Pin=ULN-8
+Added Pin To Net: NetName=M3c Pin=ULN-9
+Added Pin To Net: NetName=M3b Pin=ULN-11
+Added Pin To Net: NetName=GND Pin=ULN-12
+Added Pin To Net: NetName=GND Pin=ULN-13
+Added Pin To Net: NetName=12V Pin=Voltage Regulator-1
+Added Pin To Net: NetName=5V Pin=Voltage Regulator-3
+Added Pin To Net: NetName=GND Pin=Voltage Regulator-4
+Added Member To Class: ClassName=jelly_fish Member=Component AT8 ATmega8-16AI
+Added Member To Class: ClassName=jelly_fish Member=Component C1 1uF
+Added Member To Class: ClassName=jelly_fish Member=Component C2 1uF
+Added Member To Class: ClassName=jelly_fish Member=Component HC06 Bluetooth HC06
+Added Member To Class: ClassName=jelly_fish Member=Component MOTOR1 66100211622
+Added Member To Class: ClassName=jelly_fish Member=Component MOTOR2 66100211622
+Added Member To Class: ClassName=jelly_fish Member=Component MOTOR3 66100211622
+Added Member To Class: ClassName=jelly_fish Member=Component POWERES 1K
+Added Member To Class: ClassName=jelly_fish Member=Component POWERLED 151031SS04000
+Added Member To Class: ClassName=jelly_fish Member=Component PROG? 61200621621
+Added Member To Class: ClassName=jelly_fish Member=Component reset switch 
+Added Member To Class: ClassName=jelly_fish Member=Component RESET 1K
+Added Member To Class: ClassName=jelly_fish Member=Component ULN ULN2064B
+Added Member To Class: ClassName=jelly_fish Member=Component Voltage Regulator L78M05
+Added Room: Name=jelly_fish

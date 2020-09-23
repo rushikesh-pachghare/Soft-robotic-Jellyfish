@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=M1c Pin=ULN-2
+Removed Pin From Net: NetName=M1b Pin=ULN-3
+Removed Pin From Net: NetName=M3c Pin=ULN-9
+Removed Pin From Net: NetName=M3b Pin=ULN-11
+Added Pin To Net: NetName=M1c Pin=ULN-9
+Added Pin To Net: NetName=M1b Pin=ULN-11
+Added Pin To Net: NetName=M3b Pin=ULN-14
+Added Pin To Net: NetName=M3c Pin=ULN-16
+Added Room: Name=jelly_fish

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=M3b Pin=AT8-9
+Removed Pin From Net: NetName=M2b Pin=AT8-10
+Removed Pin From Net: NetName=M1b Pin=AT8-11
+Added Pin To Net: NetName=M1b Pin=AT8-9
+Added Pin To Net: NetName=M3b Pin=AT8-10
+Added Pin To Net: NetName=M2b Pin=AT8-11
+Added Room: Name=jelly_fish
